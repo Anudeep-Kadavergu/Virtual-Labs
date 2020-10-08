@@ -19,7 +19,8 @@ Each module are independent of each other but shares common data between them(My
 > * Creating Course
   > * Google Course Builder
      
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"><img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100"><img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 ### Admin Module
 > * Student Details Upload
 > * Faculty Details Upload
