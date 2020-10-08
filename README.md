@@ -21,18 +21,19 @@ Each module are independent of each other but shares common data between them(My
      
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"><img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100"><img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
-### Admin Module
-> * Student Details Upload
-> * Faculty Details Upload
-> * Lab Details Upload
-> * Faculty Lab Assign	
-> * Creating Course
+### Faculty Module
+> * Lab Schedules Update
+> * Lab Manuals Upload
+> * Daily Task Upload
+> * Group Messages to be sent	
+> * Manage Course
   > * Google Course Builder
   
-  ### Admin Module
-> * Student Details Upload
-> * Faculty Details Upload
-> * Lab Details Upload
-> * Faculty Lab Assign	
-> * Creating Course
+### Student Module
+> * Lab Manuals Download
+> * Lab Schedule
+> * ChatBox for every class
+> * Cloud Storage	
+> * Programming Environment
+> * Learning Courses
   > * Google Course Builder
