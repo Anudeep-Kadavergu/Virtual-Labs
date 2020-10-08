@@ -20,6 +20,8 @@ Each module are independent of each other but shares common data between them(My
      
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">Hello<img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100">Hello<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">Hello
 
+<div style="text-align:center"><img src="http://www.fillmurray.com/100/100" />Hello</div>
+
 ### Faculty Module
 > * Lab Schedules Update
 > * Lab Manuals Upload
