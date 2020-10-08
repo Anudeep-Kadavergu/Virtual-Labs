@@ -17,4 +17,6 @@ Each module are independent of each other but shares common data between them(My
 > * Lab Details Upload
 > * Faculty Lab Assign	
 > * Creating Course
-    * oogle Course Builder
+    * Google Course Builder
+     
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
