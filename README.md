@@ -1,9 +1,9 @@
 # Virtual Labs
 ## Description
-> Virtual Labs provides students with a cloud computing environment where each and every student can be able to use the resources efficiently.<br/>
-> In a college laboratory the main actions to be performed are looking up the schedule, executing the scheduled programs and then the evaluation process. <br/>
-> It gives a platform where students cannot go for different place to learn the code and for their implementations.<br/>
-> It provides a digital platform for colleges to communicate between students and faculty.<br/>
+> * Virtual Labs provides students with a cloud computing environment where each and every student can be able to use the resources efficiently.<br/>
+> * In a college laboratory the main actions to be performed are looking up the schedule, executing the scheduled programs and then the evaluation process. <br/>
+> * It gives a platform where students cannot go for different place to learn the code and for their implementations.<br/>
+> * It provides a digital platform for colleges to communicate between students and faculty.<br/>
 ## Development
 Virtual Labs are implemented by following three module design. They are:
 > Admin Module<br/>
