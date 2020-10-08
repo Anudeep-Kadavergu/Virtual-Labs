@@ -31,7 +31,7 @@ Each module are independent of each other but shares common data between them(My
 
 <img align="left" width="400" height="300" src="sample/faculty-home-page.jpg">
 
-<div style="text-align:center">Faculty Home Page</div>
+<div style="text-align:center">Faculty Home Page</div><br/>
   
 ### Student Module
 > * Lab Manuals Download
