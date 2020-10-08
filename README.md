@@ -44,7 +44,7 @@ Each module are independent of each other but shares common data between them(My
 <img align="left" width="400" height="300" src="sample/student-home-page.jpg"><img align="center" width="400" height="300" src="sample/student-chat-box.png">
 
 <div style="text-align:center">Student Home Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Chat Box for Each Class</div>
-
+<br/><br/>
 <img align="left" width="400" height="300" src="sample/student-cloud-storage.jpg"><img align="center" width="400" height="300" src="sample/student-programming-environment.jpg">
 
 <div style="text-align:center">Student Cloud Storage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Programming Environment</div>
@@ -53,6 +53,10 @@ Each module are independent of each other but shares common data between them(My
 > 1. Install XAMPP Server. 
 > 2. Clone this Repo into htdocs folder in XAMPP application.
 > 3. Start the XAMPP Server and open http://localhost/dashboard in browser.
-> 4. Click on phpmyadmin , it takes to mysql serverb page.
+> 4. Click on phpmyadmin , it takes to mysql server page.
 > 5. Create virtuallabs database and import the virtuallabs.sql file into database
-> 6. Setup is completed open http://localhost/virtual-labs in browser
+> 6. Setup is completed, Now open http://localhost/virtual-labs in browser
+> 7. Enter usernames and passwords that were mentioned in datatables
+
+## References
+> * https://judge0.com => Thanks for the programming environment API
