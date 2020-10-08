@@ -20,7 +20,7 @@ Each module are independent of each other but shares common data between them(My
      
 <img align="left" width="400" height="300" src="sample/admin-home-page.jpg"><img align="center" width="400" height="300" src="sample/admin-course-builder.jpg">
 
-<div style="text-align:center">Hello</div>
+<div ><p style="text-align:left">Admin Home Page</p><p style="text-align:center">Admin Home Page</p></div>
 
 ### Faculty Module
 > * Lab Schedules Update
