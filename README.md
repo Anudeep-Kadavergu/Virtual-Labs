@@ -5,3 +5,8 @@
 > * It gives a platform where students cannot go for different place to learn the code and for their implementations.
 > * It provides a digital platform for colleges to communicate between students and faculty.
 ## Development
+Virtual Labs are implemented by following three module design. They are:
+> Admin Module
+> Faculty Module
+> Student Module
+Each module are independent of each other but shares common data between them(MySQL DB).
