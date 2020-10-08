@@ -9,4 +9,12 @@ Virtual Labs are implemented by following three module design. They are:
 > Admin Module<br/>
 > Faculty Module<br/>
 > Student Module<br/>
+
 Each module are independent of each other but shares common data between them(MySQL DB).
+### Admin Module
+> * Student Details Upload
+> * Faculty Details Upload
+> * Lab Details Upload
+> * Faculty Lab Assign	
+> * Creating Course
+    * oogle Course Builder
